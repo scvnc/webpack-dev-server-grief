@@ -5,7 +5,7 @@ module.exports = {
 
     output: {
         library: '[name]',
-        filename: './build/js/[name].js'
+        filename: '[name].js'
     },
 
     module: {
